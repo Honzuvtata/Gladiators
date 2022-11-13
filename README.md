@@ -5,3 +5,7 @@ Version 0.1:
 Create class Warrior
 Create class Arena
 Create graphic to sidplay status of warriors
+
+Verison 0.2
+hit chance system
+hit dice roll
